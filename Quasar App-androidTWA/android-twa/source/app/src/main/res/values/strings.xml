@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quasar App</string>
+    <string name="app_url">https://pwa.hexaforce.io/</string>
+    <string name="app_host">pwa.hexaforce.io/</string>
+</resources>

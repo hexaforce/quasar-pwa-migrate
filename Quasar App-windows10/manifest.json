@@ -1,0 +1,41 @@
+{
+    "dir": "ltr",
+    "lang": "tl",
+    "name": "Quasar App",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://pwa.hexaforce.io/",
+    "short_name": "Quasar App",
+    "theme_color": "transparent",
+    "description": "A Quasar Framework app",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://pwa.hexaforce.io/statics/app-logo-128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "statics/icons/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "statics/icons/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "statics/icons/favicon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/statics/icons/favicon.ico",
+            "sizes": "16x16 32x32"
+        }
+    ]
+}

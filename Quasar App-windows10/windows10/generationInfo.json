@@ -1,0 +1,9 @@
+{
+    "generationTool": "pwabuilder-api",
+    "generationToolVersion": "2.0.1-rc.0",
+    "platformId": "windows10",
+    "platformPackage": "pwabuilder-windows10",
+    "platformVersion": "2.0.4-rc.3",
+    "generatedFrom": "Website Wizard",
+    "generationDate": "2019-05-25 23:30:06 Z"
+}

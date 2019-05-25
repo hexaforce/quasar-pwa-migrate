@@ -1,0 +1,9 @@
+{
+    "generationTool": "pwabuilder-api",
+    "generationToolVersion": "2.0.1-rc.0",
+    "platformId": "mac",
+    "platformPackage": "pwabuilder-macos",
+    "platformVersion": "0.3.0",
+    "generatedFrom": "Website Wizard",
+    "generationDate": "2019-05-25 23:29:58 Z"
+}
